@@ -1,15 +1,13 @@
-N = int(input())
-a = 0
+n = int(input())
 
-while N >= 0:
-    if (N % 5) == 0:
-        print(N//5 + a)
+result = 0
+
+while n >= 0:
+    if n % 5 == 0:
+        result += n // 5
+        print(result)
         break
-    else:
-        N = N - 3
-        a += 1
-        if N == 0:
-            print(a)
-            break
+    n -= 3
+    result += 1
 else:
-    print("-1")
+    print(-1)
