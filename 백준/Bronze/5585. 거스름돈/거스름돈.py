@@ -1,13 +1,11 @@
-m = int(input())
-sum = 0
+n = 1000 - int(input())
 
-n = 1000 - m
+moneys = [500, 100, 50, 10, 5, 1]
 
-num = [500, 100, 50, 10, 5, 1]
+result = 0
 
-for i in num:
-    if(n >= i):
-        sum += (n//i)
-        n = n % i
+for money in moneys:
+    result += n // money
+    n = n % money
 
-print(sum)
+print(result)
