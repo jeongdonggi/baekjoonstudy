@@ -1,18 +1,20 @@
-n = int(input())  # 2 * n + 1 번 I O # 0의 갯수?
+n = int(input())
 m = int(input())
-s = list(input().strip())
+s = input()  # list()로 변환할 필요 없음
 
 cnt = 0
+answer = 0
 
-for i in range(len(s) - (2*n)):
-    if s[i] == 'I':
-        go = True
-        for j in range(2*n):
-            if s[i+j] == s[i+j+1]:
-                go = False
-                break
+i = 0
+while i < m-2:
+    if s[i: i + 3] == 'IOI':
+        i += 2
+        cnt += 1
+        if cnt == n:
+            answer += 1
+            cnt -= 1
+    else:
+        i += 1
+        cnt = 0
 
-        if go:
-           cnt += 1
-
-print(cnt)
+print(answer)
