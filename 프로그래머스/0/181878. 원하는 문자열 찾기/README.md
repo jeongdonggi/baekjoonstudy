@@ -1,10 +1,10 @@
 # [level 0] 원하는 문자열 찾기 - 181878 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181878) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181878?language=java) 
 
 ### 성능 요약
 
-메모리: 10.1 MB, 시간: 0.10 ms
+메모리: 89.3 MB, 시간: 8.57 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2024년 04월 29일 20:02:05
+2026년 03월 23일 23:23:24
 
 ### 문제 설명
 
