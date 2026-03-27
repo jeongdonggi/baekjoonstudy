@@ -1,10 +1,10 @@
 # [level 0] 빈 배열에 추가, 삭제하기 - 181860 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181860) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181860?language=java) 
 
 ### 성능 요약
 
-메모리: 10.3 MB, 시간: 0.00 ms
+메모리: 92.3 MB, 시간: 4.72 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2024년 05월 01일 22:26:57
+2026년 03월 27일 19:45:19
 
 ### 문제 설명
 
@@ -56,7 +56,8 @@
 <p>입출력 예 #1</p>
 
 <ul>
-<li><p>예제 1번에서 X의 변화를 표로 나타내면 다음과 같습니다</p>
+<li>예제 1번에서 X의 변화를 표로 나타내면 다음과 같습니다</li>
+</ul>
 <table class="table">
         <thead><tr>
 <th>i</th>
@@ -102,9 +103,7 @@
 <td>[3, 3, 3, 3, 4, 4, 4, 4]</td>
 </tr>
 </tbody>
-      </table>
-<p>따라서 [3, 3, 3, 3, 4, 4, 4, 4]를 return 합니다.</p></li>
-</ul>
-
+      </table><div class="highlight"><pre class="codehilite"><code>따라서 [3, 3, 3, 3, 4, 4, 4, 4]를 return 합니다.
+</code></pre></div>
 
 > 출처: 프로그래머스 코딩 테스트 연습, https://school.programmers.co.kr/learn/challenges
