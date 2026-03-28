@@ -1,10 +1,10 @@
 # [level 0] 문자열로 변환 - 181845 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181845) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181845?language=java) 
 
 ### 성능 요약
 
-메모리: 9.92 MB, 시간: 0.00 ms
+메모리: 81.2 MB, 시간: 7.54 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2024년 04월 30일 17:56:35
+2026년 03월 29일 01:22:37
 
 ### 문제 설명
 
