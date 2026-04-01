@@ -1,10 +1,10 @@
 # [level 0] 이차원 배열 대각선 순회하기 - 181829 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181829) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181829?language=java) 
 
 ### 성능 요약
 
-메모리: 10 MB, 시간: 0.03 ms
+메모리: 72.4 MB, 시간: 0.10 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2024년 05월 01일 21:29:32
+2026년 04월 01일 21:19:07
 
 ### 문제 설명
 
