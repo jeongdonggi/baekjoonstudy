@@ -1,10 +1,10 @@
 # [level 0] 특별한 이차원 배열 2 - 181831 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181831) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181831?language=java) 
 
 ### 성능 요약
 
-메모리: 10.2 MB, 시간: 0.00 ms
+메모리: 89.3 MB, 시간: 0.16 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2024년 04월 30일 20:45:33
+2026년 04월 01일 21:09:33
 
 ### 문제 설명
 
@@ -62,7 +62,8 @@
 <p>입출력 예 #1</p>
 
 <ul>
-<li><p>예제 1번에서 문제의 조건이 잘 보이도록 표를 만들면 다음과 같습니다.</p>
+<li>예제 1번에서 문제의 조건이 잘 보이도록 표를 만들면 다음과 같습니다.</li>
+</ul>
 <table class="table">
         <thead><tr>
 <th>i</th>
@@ -126,10 +127,8 @@
 <td>999</td>
 </tr>
 </tbody>
-      </table>
-<p>조건을 만족하므로 1을 return 합니다.</p></li>
-</ul>
-
+      </table><div class="highlight"><pre class="codehilite"><code>조건을 만족하므로 1을 return 합니다.
+</code></pre></div>
 <p>입출력 예 #2</p>
 
 <ul>
